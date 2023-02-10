@@ -1,0 +1,5 @@
+﻿  RBtree.cpp
+  main.cpp
+  Generating Code...
+RBtree.obj : error LNK2019: unresolved external symbol "private: void __thiscall RBtree::fixViolattion(void)" (?fixViolattion@RBtree@@AAEXXZ) referenced in function "public: void __thiscall RBtree::insert(int)" (?insert@RBtree@@QAEXH@Z)
+C:\Users\hamza's laptop\Desktop\cs3050\home work\progAssi2\Debug\prog.exe : fatal error LNK1120: 1 unresolved externals

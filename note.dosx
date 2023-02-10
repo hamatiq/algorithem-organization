@@ -1,0 +1,12 @@
+Which of the following is FALSE about a doubly linked list?:The insertion and deletion of a node take longer time than singly linked list
+In a min heap:minimum values are stored,parent nodes have less value than child nodes
+If several elements are competing for the same bucket in the hash table, what is it called:Collision
+What is the search complexity in direct addressing:O(1)
+Which of the following statements about binary trees is NOT tru:Every binary tree has at least one node
+Which of the following is false about a binary search tree:None of the mentioned
+What is the special property of red-black trees:A color which is either red or black and root should always be black color only
+What are the operations that could be performed in O(log n) time complexity by red-black tree:Insertion, deletion, finding predecessor, successor
+If you apply the Breadth-first search (BFS) algorithm to traverse a graph G, what result will you get:Tree
+In the algorithm for computing a topological sort of a directed acyclic graph G, after a depth first search (DFS) on G, the algorithm outputs the vertices in:(c)	Increasing order of finishing time obtained from the DFS,(d)	Decreasing order of finishing time obtained from the DFS
+Given an undirected graph G with n nodes, its n-by-n adjacency matrix has following properties: (i) all diagonal elements are 0’s and (ii) all non-diagonal elements are 1’s. Which of the following statements is TRUE:(c)	Graph G has multiple distinct MSTs, each of cost n-1,(d)	Graph G has multiple spanning trees of different costs
+Given an undirected connected graph G with distinct edge weight, let emax be the edge with maximum weight and emin the edge with minimum weight. Which of the following statements is FALSE:(c)	No minimum spanning tree contains emax
